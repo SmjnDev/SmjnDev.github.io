@@ -1960,7 +1960,7 @@ textarea.w-select {
 
 .social_button {
   background-color: #fff;
-  background-image: url('../Img/X.svg');
+  background-image: url('../IMG/X.svg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 30px;
@@ -1978,7 +1978,7 @@ textarea.w-select {
 }
 
 .social_button.tg {
-  background-image: url('../Img/TG.svg');
+  background-image: url('../IMG/TG.svg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 70%;
