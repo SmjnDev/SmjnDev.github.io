@@ -1988,12 +1988,6 @@ textarea.w-select {
   background-color: #5effba;
 }
 
-.social_button.chart {
-  background-image: url('../images/chart.svg');
-  background-position: 20% 20%;
-  background-size: 90%;
-}
-
 .block_social_button {
   width: 50px;
   height: 50px;
@@ -2619,18 +2613,6 @@ textarea.w-select {
   width: 100%;
   height: 70%;
   display: flex;
-}
-
-.tokenomics_img.supply {
-  background-image: url('../images/supply.png');
-  background-position: 20% 70%;
-  background-size: cover;
-}
-
-.tokenomics_img.burnt {
-  background-image: url('../images/lp_burnt.png');
-  background-position: 0 0;
-  background-size: cover;
 }
 
 .h3 {
